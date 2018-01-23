@@ -1,0 +1,23 @@
+# Visual Studio project files
+.vs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Scripts
+*.bat
+*.bash
+
+# Always add these files
+!.gitkeep
